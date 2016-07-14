@@ -66,5 +66,7 @@ Remarks
 
 - I'm aware the GUI is awful, but I have never built a GUI in C before :)
 
+- Also the if you search with empty parameters, it won't return anything as my server treats that as you searching for an empty parameter. Rather than leaving some fields empty, input a '*' in them, that will mean anything for that field goes (sry about this.)
+
 
 
