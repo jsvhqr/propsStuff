@@ -1,0 +1,20 @@
+Uppgift:
+
+1. Läs in posterna i medföljande fil till valfri databas.
+
+2. Bygg en server i C som läser in posterna från databasen.
+- Servern ska kunna söka i posterna och returnera de poster som motsvarar 
+  sökvillkoret.
+- Sökvillkoret ska kunna innehålla wildcards i samtliga fält.
+- Servern behöver inte ha ett grafiskt gränssnitt.
+
+3. Bygg en klient i C med grafiskt gränssnitt där det går att ange sökvillkor.
+- Det ska gå att söka på flera fält.
+- Klienten ställer frågor till servern och visar sökresultatet i en listview 
+  eller textkontroll.
+- Klient och server kommunicerar på valfritt sätt.
+
+4. Skicka både kod och exekverbar fil för server och klient plus eventuella 
+instruktioner för att vi ska kunna bygga projektet själva.
+
+Lycka till!
